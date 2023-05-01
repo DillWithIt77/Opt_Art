@@ -10,10 +10,6 @@ Repository of code to run to create art from chapters of the Opt Art book by Dr.
 -pyomo
 -guirobi (or another solver)
 
-## Chapter 2
-### Truchet Tile
+## Chapter 2 (Truchet Tiles and Star Tiles) [https://github.com/DillWithIt77/Opt_Art/blob/main/Chapter_2_Truchet_Tiles.ipynb]
+## Chapter 6 (Domino Art) [https://github.com/DillWithIt77/Opt_Art/blob/main/Chapter_6_Domino_Art.ipynb]
 
-### Star Tile
-
-## Chapter 6
-### Domino Art
