@@ -5,7 +5,7 @@ Repository of code to run to create art from select chapters of the Opt Art book
 - sys
 - numpy
 - PIL
--math
+- math
 ### For Domino Art Notebook
 -pyomo
 -guirobi (or another solver)
