@@ -11,5 +11,5 @@ Repository of code to run to create art from select chapters of the Opt Art book
 - guirobi (or another solver)
 
 ## Chapter 2 [Truchet Tiles and Star Tiles](https://github.com/DillWithIt77/Opt_Art/blob/main/Chapter_2_Truchet_Tiles.ipynb)
-## Chapter 6 [Domino Art](https://github.com/DillWithIt77/Opt_Art/blob/main/Chapter_6_Domino_Art.ipynb)
+## Chapter 5 [Domino Art](https://github.com/DillWithIt77/Opt_Art/blob/main/Chapter_6_Domino_Art.ipynb)
 
